@@ -11,8 +11,9 @@ The objective of this project is to analyze how casual riders and annual members
 
 The dataset used in this analysis is the Divvy Bike Share dataset provided for the Cyclistic case study.
 
-Source: Divvy Bike Share  
-Link: https://divvy-tripdata.s3.amazonaws.com/index.html  
+Source: Motivate International Inc. (via Divvy Bike Share)
+Link: https://divvy-tripdata.s3.amazonaws.com/index.html
+License: Data made available under the Divvy Data License Agreement
 
 This dataset is publicly available and was used for educational purposes as part of the Google Data Analytics case study.
 
